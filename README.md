@@ -1,8 +1,8 @@
 # Hi, I'm BlueBleaze 👋
 
 <p align="center">
-  <img src="./assets/ArchLinux.png" width="49%">
-  <img src="./assets/KernelPanic.png" width="49%">
+  <img src="ArchLinux.png" width="49%">
+  <img src="KernelPanic.png" width="49%">
 </p>
 
 > I like Linux, DevOps and artificial intelligence.
