@@ -1,4 +1,4 @@
-# Hi, I'm BlueBleaze 👋
+# Hi, I'm BlueBleaze 
 
 <p align="center">
   <img src="ArchLinux.png" width="49%">
@@ -11,22 +11,22 @@ I'm interested in understanding how things work
 under the hood and building things just for the sake
 of learning.
 
-## 🛠️ What I do
+##  What I do
 
-- 🐧 Linux & system administration
-- ⚙️ DevOps & self-hosting
-- 🤖 AI experiments
-- 💻 JavaScript / TypeScript
-- 🧪 Random projects & experiments
+-  Linux & system administration
+-  DevOps & self-hosting
+-  AI experiments
+-  JavaScript / TypeScript
+-  Random projects & experiments
 
-## 🚀 Projects
+##  Projects
 
-- 🎮 **[Bellbound](https://github.com/bluebleaze/Bellbound)**
-- 🧰 **[ruby-tools](https://github.com/bluebleaze/ruby-tools)**
-- 🌐 **[bluebleaze.github.io](https://github.com/bluebleaze/bluebleaze.github.io)**
+-  **[Bellbound](https://github.com/bluebleaze/Bellbound)**
+-  **[ruby-tools](https://github.com/bluebleaze/ruby-tools)**
+-  **[bluebleaze.github.io](https://github.com/bluebleaze/bluebleaze.github.io)**
 
-## 📚 Currently learning
+##  Currently learning
 
 `Linux` `Networking` `DevOps` `AI` `Systems`
 
-> Build it. Break it. Understand it. Fix it.
+> Long live the Linux
