@@ -1,4 +1,4 @@
-# Hi, I'm BlueBleaze 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=005DF7&center=true&vCenter=true&width=435&lines=Hi+im+Bluebleaze;Hi+im+Florez;Hi+im+Nabil+)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="ArchLinux.png" width="49%">
