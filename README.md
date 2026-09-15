@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=005DF7&center=true&vCenter=true&width=435&lines=Hi+im+Bluebleaze;Hi+im+Florez;Hi+im+Nabil+)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="ArchLinux.png" width="49%">
-  <img src="KernelPanic.png" width="49%">
+  <img src="ArchLinux.png" width="30%">
+  <img src="Artix.png" width="30%">
+  <img src="KernelPanic.png" width="30%">
 </p>
 
 > I like Linux, DevOps and artificial intelligence.
