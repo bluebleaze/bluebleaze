@@ -17,8 +17,9 @@ of learning.
 -  Linux & system administration
 -  DevOps & self-hosting
 -  AI experiments
--  JavaScript / TypeScript
--  Random projects & experiments
+-  Bash/Linux scripts project
+-  Random projects & experiments(Like rooting phone maybe?)
+-  Linux's init experiments
 
 ##  Projects
 
@@ -27,8 +28,15 @@ of learning.
 -  **[bluebleaze.github.io](https://github.com/bluebleaze/bluebleaze.github.io)**
 -  **[IOnLearn](https://github.com/bluebleaze/IOnLearn)**
 
+## .gitignore team
+  <img src="gitignoreteam.png" width="20%">
+
+Chaotic Team that exist somehow...
+-  [bluebleaze](https://github.com/bluebleaze)
+-  [inihelta](https://github.com/inihelta)
+
 ##  Currently learning
 
-`Linux` `Networking` `DevOps` `AI` `Systems`
+`Linux` `Networking` `DevOps` `AI` `Systems` `Bash`
 
 > Long live the Linux
