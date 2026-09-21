@@ -30,7 +30,7 @@ of learning.
 
 ## .gitignore team
   <div align="center"> 
-    <img src="gitignore.png" width="30%" >
+    <img src="gitignore.png" width="80%" >
   </div>
   
 
