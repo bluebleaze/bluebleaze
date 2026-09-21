@@ -29,7 +29,7 @@ of learning.
 -  **[IOnLearn](https://github.com/bluebleaze/IOnLearn)**
 
 ## .gitignore team
-  <img src="gitignoreteam.png" width="20%">
+  <img src="gitignoreteam.png" width="30%">
 
 Chaotic Team that exist somehow...
 -  [bluebleaze](https://github.com/bluebleaze)
