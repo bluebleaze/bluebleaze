@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=005DF7&center=true&vCenter=true&width=435&lines=Hi+im+Bluebleaze;Hi+im+Florez;Hi+im+Nabil+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&duration=3500&pause=800&color=6CF7F5&width=435&lines=Hello+Im+BlueBleaze;Hello+Im+Florez;Hello+Im+Nabil)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="ArchLinux.png" width="25%">
@@ -22,6 +22,7 @@ of learning.
 -  Rooting Phone & Jailbreaking
 -  Linux's init experiments
 -  Homelabbing
+-  Make/contribute open source project(s)
 
 ##  Projects
 
@@ -43,6 +44,6 @@ of learning.
 
 ##  Currently learning
 
-`Linux` `Networking` `DevOps` `AI` `Systems` `Bash`
+`Linux` `Networking` `DevOps` `AI` `Systems` `Bash` `Open Source`
 
-> Long live the Linux
+> I use Artix Btw(im a larp)
